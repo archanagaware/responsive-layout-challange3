@@ -1,0 +1,40 @@
+body {
+    background-color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 21px;
+}
+.container-fluid {
+    width: 100%;
+    background-color:#23424A;
+}
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+h1 {
+    font-size: 3rem;
+}
+.div-content{
+    color: #ffffff;
+    width: 80%;
+}
+
+.div-content p {
+    color: #136C72;
+    margin-bottom: 3rem;
+    width: 90%;
+}
+
+.btn {
+    border-radius: 30px;
+    background-color: #38CFD9;
+    color: #23424A;
+    border: transparent;
+    padding: 15px 25px;
+    font-size: 21px;
+    font-weight: bold;
+    text-transform: uppercase;
+    cursor: pointer;
+}
